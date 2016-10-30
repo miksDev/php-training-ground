@@ -1,5 +1,12 @@
-<?php
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
 
-    echo "Hello, Mark!";
+    <?php echo = "Hello miks"; ?>
 
-?>
+  </body>
+</html>

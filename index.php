@@ -6,7 +6,7 @@
   </head>
   <body>
 
-    <?php echo = "Hello miks"; ?>
+    <?php echo = "testing git shell"; ?>
 
   </body>
 </html>

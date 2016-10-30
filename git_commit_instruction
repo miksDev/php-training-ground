@@ -1,0 +1,23 @@
+--to change directory
+$ cd /xampp/htdocs/nameofthefile
+
+--to check for the list item
+$ ls
+
+--to check status (yung mga di pa nacommit/napush)
+
+**To commit/push changes**
+1. to check file that has not been committed yet
+$ git status
+
+2. to add
+$ git add index.php
+
+3. to check status
+$ git status
+
+4. to commit and add a description/comment changes
+$ git commit -m "this is a comment"
+
+5. to push to repository
+$ git push -u origin master
